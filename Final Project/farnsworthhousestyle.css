@@ -1,0 +1,87 @@
+P{
+font-size: 40px;
+background-color: white; 
+}
+
+h{
+  font-size: 24px;
+  padding-right: 885px;
+  /* this will move your text where you want it */
+}
+
+
+span {
+font-size: 70px;
+font-family: Bungee;
+}
+
+
+P3 {
+font-family: Helvetica;
+font-size: 22px;
+text-align: left;
+}
+
+P4 {
+font-family: Helvetica;
+font-size: 22px;
+text-align: right;
+}
+
+<style>
+
+div#box{
+    width: 100%;
+}
+
+img#image2 {
+    padding-right: 0px;
+      /* this will adjust how centered your image is */
+    padding-left: 18px;
+    /* this will also adjust how centered your image is */
+}
+
+img#image1 {  
+   padding-left: 0px;
+    /* this will adjust how centered your image is */
+}
+
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+img#image3 {
+    
+    padding-right: 12px;
+      /* this will adjust how centered your image is */
+   padding-left: 29px;
+}
+
+img#image4 {
+  padding-left: 16px;
+  /* this above will increase your left pad */
+  padding-right: -1px;
+}
+
+
+img#image5 {
+  padding-left: 9px;
+  padding-right: -1px;
+}
+
+img#image6 {
+  padding-right: 0px;
+  padding-left: 14px;
+}
+
+img#image7 {
+  padding-right: 1px;
+  padding-left: 15px;
+}

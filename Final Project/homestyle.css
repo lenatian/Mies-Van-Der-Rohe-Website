@@ -1,0 +1,58 @@
+header {
+  font-family: Bungee, sans-serif;
+  text-align: left;
+  font-size: 120px;
+  margin-left: 900px;
+  margin-top: -160px;
+  /* this will bring all your content upwards a notch, the more negative the higher*/
+  margin-bottom: -10px;
+}
+
+ol {
+  border: 1.5px solid black;
+  font-family: NanumGothicCoding, sans-serif;
+  font-size: 30px;
+  margins: 20px;  
+}
+
+body {background-color: #FFFFF7;}
+/*above is your background color.*/
+
+#banner .content h1 {
+border: 3px solid black;
+position: top;
+  top: 0px;
+  width: 460px;
+  /* this is the width of your box */
+  height: 450px;
+   /* this is the height of your box */
+  margin: 0 auto;
+  margin-right: 320px;
+}
+
+h1 {
+    top: 0px;
+ padding-width: 300px;
+  padding-height: 500px;
+  padding-margin: 0 auto;
+}
+
+.content {
+  position: relative;
+  top: -560px;
+  left: -300px;
+}
+
+h1 {
+  font-family: "NanumGothicCoding";
+  font-weight: normal;
+  font-size: 60px;
+  padding: 50px;
+  padding-top: 80px;
+}
+
+
+
+
+
+

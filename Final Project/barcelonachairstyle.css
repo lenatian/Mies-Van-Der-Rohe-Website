@@ -1,0 +1,166 @@
+P{
+font-size: 40px;
+background-color: white; 
+}
+
+h{
+  font-size: 24px;
+  padding-right: 885px;
+  /* this will move your text where you want it */
+}
+
+
+span {
+font-size: 70px;
+font-family: Bungee;
+}
+
+h2{
+font-size: 20px;
+background-color: white;
+margin-left: 45px;
+margin-right: 45px;
+ /* this will move your text where you want it */
+text-align: left;
+font-weight: normal;
+}
+
+P3 {
+font-family: Helvetica;
+font-size: 22px;
+}
+
+P4 {
+font-family: Helvetica;
+font-size: 22px;
+text-align: right;
+}
+
+<style>
+
+div#box{
+    width: 100%;
+}
+
+
+img#image1 {
+  position: relative; 
+	bottom: 20px;
+	right: 2px;
+  /* the higher the left-er*/
+}
+
+img#image2 {
+  position: relative; 
+	top: 50px;
+  /* the lower your pixel the further they get*/
+	right: 50px;
+  /* this increases your right neg space*/
+}
+
+img#image3 {
+  position: relative;
+  left:  48px;
+  /* the lower the pixel the further*/
+  bottom: 52px;
+  /* the higher the pixel the higher in height */
+}
+
+img#image4 {
+  position: relative;
+  left:  555px;
+  /* the higher the right-er*/
+  bottom: 38px;
+  /* the higher the higher*/
+}
+
+
+img#image5 {
+  position: relative;
+  right: 330px;
+  /* the higher the left-er*/
+  top: 50px;
+  /* the higher the pixel the higher*/
+}
+
+p1 {
+  font-family: "NanumGothicCoding";
+  position: relative;
+  bottom: 400px;
+  /* the higher the pixel the higher your    text*/
+  left: 490px;
+  text-align: center;
+  font-size: 18px;
+}
+
+
+h4{
+  font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 130px;
+  padding-right: 130px;
+  line-height: normal;
+}
+
+h3{
+  font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 130px;
+  padding-right: 130px;
+  line-height: normal;
+}
+h5{
+  font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 130px;
+  padding-right: 130px;
+  line-height: normal;
+}
+
+h6{
+  font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 130px;
+  padding-right: 130px;
+  line-height: normal;
+}
+
+h7{font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 90px;
+  padding-right: 544px;
+  left: 40px;
+  line-height: normal;
+}
+
+h8{font-size: 20px;
+  font-family: "NanumGothicCoding";
+  position: relative;
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 90px;
+  padding-right: 544px;
+  left: 40px;
+  line-height: normal;
+}

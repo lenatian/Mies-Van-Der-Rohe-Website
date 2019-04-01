@@ -1,0 +1,22 @@
+iframe{
+  width:750px;
+  height:600px;
+}
+
+span {
+font-size: 70px;
+font-family: Bungee;
+}
+
+h{
+  font-size: 24px;
+  padding-right: 885px;
+  /* this will move your text where you want it */
+  position: relative;
+  top: 25px;
+}
+
+P{
+  position: relative;
+  top: 20px;
+}
